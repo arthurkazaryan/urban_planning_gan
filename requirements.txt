@@ -1,0 +1,4 @@
+pathlib==1.0.1
+numpy==1.20.1
+scipy==1.8.0
+tensorflow==2.6
